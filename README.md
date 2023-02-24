@@ -1,1 +1,1 @@
-"A place to park notes on methods, pitfalls, and optimizations  for self publishing."
+"A place to keep notes on methods, pitfalls, and optimizations  for self publishing."
